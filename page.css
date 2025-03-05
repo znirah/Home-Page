@@ -1,0 +1,185 @@
+*{
+    margin: 0px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.nav-bar{
+    display: flex;
+    height: 100px;
+    padding: 5px;
+    margin: 30px;
+    align-items: center;
+    border-top: 3px solid black;
+    border-left: 2px solid black;
+    box-shadow: 2px gray;
+    margin-bottom: 0px;
+}
+.logo{
+    padding: 10px;
+    color: rgb(23, 120, 133);
+    width: 100px;
+}
+.navigation{
+    height: 50px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.navigation a{
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+
+}
+.search-bar{
+    height: 70px;
+    width: 600px;
+    align-content: left;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+.search{
+    height: 30px;
+    width: 500px;
+    border-radius: 30px;
+    padding-left: 20px;
+    margin-left: 10px;
+    box-shadow: 1px 1px 1px 1px rgb(175, 169, 169);
+    border: 1px solid rgb(175, 169, 169);
+}
+.icon{
+    color: gray;
+    font-size: 40px;
+    margin-left: 10px;
+    position: relativ;
+}
+.right-nav{
+    height: 70px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+} 
+.blog a{
+    text-decoration: none;
+    color: black;
+    font-weight: 100;
+    margin-left: 10px;
+} 
+.iconforcart{
+  
+    font-size: 30px;
+    margin-left: 10px;
+}  
+.iconforcart a{
+    color: gray;
+    font-size: 40px;
+}
+.button-box{
+    height: 70px;
+    width: 200px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+.button1{
+    height: 40px ;
+    width: 90px;
+    margin-left: 10px;
+    background-color: rgb(189, 83, 83);
+    color: white;
+    border: none;
+}
+.button2{
+    width: 90px;
+    height: 40px;
+    margin-left: 5px;
+    background-color:rgb(23, 120, 133);
+    color: white;
+    border: none;
+}
+.main{
+      margin: 0px 30px;
+    padding: 0px;
+    height: 450px;
+    display: flex;
+}
+.left-side{
+    border: 1px solid rgb(177, 173, 173);
+    margin-left: 150px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    padding: 10px;
+    box-shadow: 2px  1px 2px rgb(226, 207, 207);
+}
+.course{
+    height: 50px;
+    border: none;
+}
+.table{
+    height: 100px;
+    margin-left: 200px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    font-size: small;
+}
+.headrow{
+    display: flex;
+    border-bottom: 1px solid rgb(204, 200, 200);
+    height: 30px;
+}
+.headrow1{
+    display: flex;
+    border-bottom: 4px solid rgb(204, 200, 200);
+    height: 30px;
+}
+.serial{
+    height: 28px;
+    width: 50px;
+    margin-left: 20px;
+    align-content: center;
+    padding-left: 5px;
+}
+.course1{
+    height: 28px;
+    width: 250px;
+    align-content: center;
+    padding-left: 5px;
+
+
+}
+.action{
+    height: 28px;
+    width: 150px;
+    align-content: center;
+    padding-left: 70px;
+
+
+
+}
+.del{
+    height: 23px;
+    background-color: rgb(209, 60, 60);
+    color: white;
+    font-size: x-small;
+    border: none;
+    padding: 3px;
+}
+.sel{
+    height: 23px;
+    background-color: rgb(82, 153, 185);
+    color: black;
+    font-size: x-small;
+    border: none;
+    margin-left: 10px;
+    padding: 3px;
+}
+.newc{
+          height: 120px;
+          width: 700px;
+          border: 2px solid rgb(199, 186, 186);
+          margin-left: 450px;
+          padding: 30px;
+}
+
